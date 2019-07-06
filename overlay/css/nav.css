@@ -15,7 +15,6 @@ nav {
 
   z-index: 3;
   
-  /* display: none; */
 }
 nav > .container {
   display: flex;
