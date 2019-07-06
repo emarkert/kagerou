@@ -14,6 +14,8 @@ nav {
   width: 100%;
 
   z-index: 3;
+  
+  display: none; 
 }
 nav > .container {
   display: flex;
